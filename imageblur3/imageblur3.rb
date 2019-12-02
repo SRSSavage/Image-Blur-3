@@ -1,5 +1,5 @@
 class Image
-  #accessor enables read and write, storing variable
+  #access to values
   attr_accessor :array
     
   #intiates the command 
